@@ -33,3 +33,5 @@ Cypress.Commands.add('fillMandatoryFieldsAndSubmit', function() {
     cy.contains('button', 'Enviar').click()
     
 })
+
+
